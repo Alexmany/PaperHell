@@ -1,0 +1,67 @@
+﻿{"items":[
+{"key":"leves_button","value":"LEVEL SELECTION"},
+{"key":"survive_button","value":"SURVIVAL MODE"},
+{"key":"zen_button","value":"ZEN MODE"},
+{"key":"zen_button2","value":"PEACE AND QUIET"},
+{"key":"day_text","value":"DAY "},
+{"key":"day_win","value":"DAY DONE"},
+{"key":"day_lose","value":"DAY FAILED"},
+{"key":"day_lose2","value":"FAIL"},
+{"key":"reward1","value":"REWARD: "},
+{"key":"reward2","value":" COINS"},
+{"key":"highscore","value":"BEST SCORE: "},
+{"key":"highscore2","value":"CURRENT SCORE: "},
+{"key":"logo","value":"PAPER HELL"},
+
+{"key":"ad_text","value":"GET <color=yellow>2500</color> COINS by watching the video.."},
+{"key":"ad_text2","value":"Thank you for watching. Your <color=yellow>2500</color> coins уже у вас."},
+
+{"key":"coffee","value":"Coffee"},
+{"key":"coffee_desc","value":"New documents will not arrive within 20 seconds."},
+{"key":"health","value":"HEALTH"},
+{"key":"health_desc","value":"Restores one health point."},
+{"key":"finger","value":"SUPER HAND"},
+{"key":"finger_desc","value":"Within 20 seconds, all documents become ready in one click."},
+
+{"key":"table1","value":"DEFAULT TABLE"},
+{"key":"table2","value":"RED TABLE"},
+{"key":"table3","value":"BLUE TABLE"},
+{"key":"table4","value":"GREEN TABLE"},
+{"key":"table5","value":"DARK TABLE"},
+{"key":"table6","value":"PURPLE TABLE"},
+
+{"key":"Tut_text1","value":"Sign the document with your finger."},
+{"key":"Tut_text2","value":"Drag and drop the document to the desired area."},
+{"key":"Tut_text3","value":"Repeat these actions again."},
+
+{"key":"day1_text","value":"The best days."},
+{"key":"day2_text","value":"It is time to work."},
+{"key":"day3_text","value":"Work again?"},
+
+{"key":"day1_s1","value":"You're new, right? I was sent to explain what's going on here."},
+{"key":"day1_s2","value":"Your task is to sign documents in a certain amount of time."},
+{"key":"day1_s3","value":"If you fail to sign the document - you will lose one health point."},
+{"key":"day1_s4","value":"And if you lose all your health points, you will be..."},
+{"key":"day1_s5","value":"FIRED. Good luck!"},
+
+{"key":"day6_s1","value":"How are the first days? Not so hard?"},
+{"key":"day6_s2","value":"You can forget about it. A new decree has come. Now we need to fill new forms."},
+
+{"key":"day11_s1","value":"Still with us? There is bad news for you."},
+{"key":"day11_s2","value":"You will have to stamp on green documents, otherwise you will be FIRED."},
+
+{"key":"day16_s1","value":"Incorrectly executed document went into circulation. It is without the red mark, which is on ordinary documents."},
+{"key":"day16_s2","value":"Throw away such documents. If you do not do this, you will be fired. Oh yes, do not throw away normal documents."},
+
+{"key":"day21_s1","value":"I am surprised. You still haven't escaped from our Company. There is news for you..."},
+{"key":"day21_s2","value":"The boss increased working time."},
+
+{"key":"day26_s1","value":"Bad news..."},
+{"key":"day26_s2","value":"The boss has increased our work time, again."},
+
+{"key":"end_text1","value":"Congratulations!"},
+{"key":"end_text2","value":"You beat the game."},
+{"key":"end_text3","value":"Reward: <color=yellow>2500</color> coins"},
+
+{"key":"blank","value":""}
+]}

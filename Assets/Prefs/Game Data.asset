@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7fe2fec340d34428a21b765aa3e161, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  coins: 0
+  highscore: 0
+  coffee: 0
+  finger: 0
+  healthpak: 0
+  table_id: 0
+  table_count: 010000000000000000000000000000000000000000000000
+  levels: 00000000000000000000000000000000000000000000000000000000000000
+  game_ended: 0

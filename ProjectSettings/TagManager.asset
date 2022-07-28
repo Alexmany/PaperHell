@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paper
+  - Brush
+  - Check
+  - Stamp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bg
+    uniqueID: 1680055479
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Papers
+    uniqueID: 3834956059
+    locked: 0
+  - name: Stamp
+    uniqueID: 1158031449
+    locked: 0
+  - name: UI
+    uniqueID: 3672423017
+    locked: 0
